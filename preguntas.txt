@@ -1,0 +1,18 @@
+1. ¿Cuál es el punto debil de PGP?
+
+Se permite extraer el contenido de los mensajes de correo electrónico
+ cifrados sin conocer la clave original.
+
+2. ¿Cuando es conveniente utilizar solamente cifrado simétrico?
+
+Para transmitir una gran cantidad de datos
+
+3.¿ En que consiste el ciclo de vida del desarrollo de software seguro (etapa por etapa)?
+
+Planning, Design, Development, Testing, Release
+
+ integración de pruebas de seguridad en los procesos existentes.
+ Las actividades incluyen análisis de arquitectura,
+ revisión frecuente de código y construcción de pruebas de penetración antes del lanzamiento.
+
+
